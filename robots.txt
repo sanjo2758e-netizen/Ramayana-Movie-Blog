@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanjo2758e-netizen.github.io/Ramayana-Movie-Blog/sitemap.xml
